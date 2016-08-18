@@ -1,0 +1,17 @@
+{
+    "name": "lohittamil-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Multiple Designers"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/lohittamil-bower.git"
+    },
+    "description": "Lohit Tamil font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
